@@ -2,7 +2,8 @@ Projeto Testes Automatizados
 
 Projeto Base: https://github.com/LucianaXarim/ProjetoProgracaoWeb2?tab=readme-ov-file#projeto-programa%C3%A7%C3%A3o-web2 
 
-Ecommerce Mana | Login, Authentication & CRUD
+Ecommerce Mana 
+
 1) Repositórios x Pastas do Projeto | Github
 1.1) Testes de Integração
    <<não consegui carregar no git>>
