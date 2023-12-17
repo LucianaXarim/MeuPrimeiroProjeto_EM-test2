@@ -8,7 +8,7 @@ Ecommerce Mana
 
    
 1.1) Testes de Integração
-   <<não consegui carregar no git>>
+   <<não consegui carregar no git, pois criei o projeto a partir de outro existente e deu conflito>>
 
 1.2) Testes - End to End
 https://github.com/LucianaXarim/MeuPrimeiroProjeto_EM-test2/tree/dev/MeuPrimeiroProjeto/src/test
