@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HealthCheck {
     @RequestMapping("/")
     public String heathCheck(){
-                return "Apllication Running Lu 2023.10.08 as 11:01h!!";
+                return "Apllication Running Marinha 2023.10.08 as 15:08h!!";
     }
 }
