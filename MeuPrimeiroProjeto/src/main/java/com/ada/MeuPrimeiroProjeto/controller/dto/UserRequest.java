@@ -10,7 +10,7 @@ import org.hibernate.validator.constraints.Length;
 @AllArgsConstructor
 public class UserRequest {
 
-    @NotBlank//(message = "batata") >> para personalizar a mensagem de erro, mas não tem a tradução automatica + Add valid no controller request
+    @NotBlank
     @Length(min =3, max = 35)
     private String name;
 
